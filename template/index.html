@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>AI-Powered Library Catalog</title>
+    <style>
+        /* Simple styling for a clean look */
+        body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; margin: 0; padding: 0; background-color: #f4f7f9; color: #333; }
+        .container { max-width: 900px; margin: 50px auto; padding: 20px; background-color: #fff; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); }
+        h1 { color: #1a73e8; text-align: center; margin-bottom: 30px; font-size: 1.8rem; }
+        .search-form { display: flex; margin-bottom: 40px; border: 2px solid #ddd; border-radius: 8px; overflow: hidden; }
+        .search-input { flex-grow: 1; padding: 15px 20px; border: none; font-size: 16px; outline: none; background: transparent; }
+        .search-button { padding: 15px 25px; background-color: #1a73e8; color: #fff; border: none; cursor: pointer; font-size: 16px; font-weight: 700; }
+        .result-card { border: 1px solid #e0e0e0; padding: 15px; margin-bottom: 15px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.04); }
+        .book-title { font-size: 1.15em; color: #222; font-weight: 600; margin-bottom: 6px; }
+        .book-author { color: #555; margin-bottom: 8px; }
+        .book-details { display: flex; flex-wrap: wrap; gap: 12px; font-size: 0.9em; color: #666; padding-top: 10px; border-top: 1px dashed #eee; margin-top: 10px; }
+        .detail { display: inline-flex; gap: 6px; align-items: center; }
+        .no-results { text-align: center; color: #777; }
+    </style>
+</head>
+<body>
+    <div class="container" role="main" aria-labelledby="catalog-title">
+        <h1 id="catalog-title">📚 AI-Powered Library Catalog</h1>
+
+        <form class="search-form" method="POST" action="/" role="search" aria-label="Library catalog search">
+            <input
+                type="text"
+                name="query"
+                class="search-input"
+                placeholder="Search by Title, Author, Subject, Year, or Classification (e.g., 'books on Python by Lutz from 2013')"
+                required
+                value="{{ search_query or '' }}"
+                aria-label="Search query"
+            />
+            <button type="submit" class="search-button" aria-label="Search">Search</button>
+        </form>
+
+        <div class="results-section" aria-live="polite">
+            {% if results is defined %}
+                <h2>Search Results ({{ results|length }} found)</h2>
+                {% for book in results %}
+                    <div class="result-card" role="article" aria-labelledby="title-{{ loop.index }}">
+                        <div id="title-{{ loop.index }}" class="book-title">{{ book.Title }}</div>
+                        <div class="book-author">By: {{ book.Author }}</div>
+                        <div class="book-details">
+                            <div class="detail"><strong>Subject:</strong> {{ book.Subject | join(', ') }}</div>
+                            <div class="detail"><strong>Year:</strong> {{ book.Year }}</div>
+                            <div class="detail"><strong>Classification:</strong> {{ book.Classification }}</div>
+                        </div>
+                    </div>
+                {% endfor %}
+            {% else %}
+                <p class="no-results">Type your query above to start searching the catalog intelligently.</p>
+            {% endif %}
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI-Powered Library Catalog</title>
+    <style>
+        /* Simple, clean CSS */
+        body {
+            font-family: sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f7f9;
+            color: #333;
+        }
+        .container {
+            max-width: 900px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 12px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #1a73e8;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .search-form {
+            display: flex;
+            margin-bottom: 40px;
+            border: 2px solid #ddd;
+            border-radius: 8px;
+            overflow: hidden;
+        }
+        .search-input {
+            flex-grow: 1;
+            padding: 15px 20px;
+            border: none;
+            font-size: 16px;
+            outline: none;
+        }
+        .search-button {
+            padding: 15px 25px;
+            background-color: #1a73e8;
+            color: white;
+            border: none;
+            cursor: pointer;
+            font-size: 16px;
+            font-weight: bold;
+            transition: background-color 0.3s;
+        }
+        .search-button:hover {
+            background-color: #155cb0;
+        }
+        .results-section {
+            padding-top: 20px;
+        }
+        .result-card {
+            background-color: #ffffff;
+            border: 1px solid #e0e0e0;
+            padding: 15px;
+            margin-bottom: 15px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+        }
+        .book-title {
+            font-size: 1.2em;
+            color: #333;
+            font-weight: 600;
+            margin-bottom: 5px;
+        }
+        .book-author {
+            color: #555;
+            font-style: italic;
+            margin-bottom: 5px;
+        }
+        .book-details {
+            display: flex;
+            justify-content: space-between;
+            font-size: 0.9em;
+            color: #777;
+            padding-top: 10px;
+            border-top: 1px dashed #eee;
+            margin-top: 10px;
+        }
+        .no-results {
+            text-align: center;
+            color: #e03939;
+            font-size: 1.1em;
+            padding: 30px;
+            border: 1px solid #f9d7d7;
+            background-color: #fffafa;
+            border-radius: 8px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>📚 AI-Powered Library Catalog</h1>
+        <form class="search-form" method="POST" action="/">
+            <input type="text" name="query" class="search-input" placeholder="Search by Title, Author, Subject, Year, or Classification (e.g., 'books on Python by Lutz from 2013')" required value="{{ search_query or '' }}">
+            <button type="submit" class="search-button">Search</button>
+        </form>
+
+        <div class="results-section">
+            {% if results is not none %}
+                <h2>Search Results ({{ results|length }} found)</h2>
+
+                {% if results|length == 0 %}
+                    <div class="no-results">
+                        No results found for "<strong>{{ search_query }}</strong>". Try a different query!
+                    </div>
+                {% else %}
+                    {% for book in results %}
+                        <div class="result-card">
+                            <div class="book-title">{{ book.Title }}</div>
+                            <div class="book-author">By: {{ book.Author }}</div>
+                            <div class="book-details">
+                                <span><strong>Subject:</strong> {{ book.Subject | join(', ') }}</span>
+                                <span><strong>Year:</strong> {{ book.Year }}</span>
+                                <span><strong>Classification:</strong> <strong>{{ book.Classification }}</strong></span>
+                            </div>
+                        </div>
+                    {% endfor %}
+                {% endif %} 
+
+            {% else %}
+                <p style="text-align: center; color: #777;">Type your query above to start searching the catalog intelligently.</p>
+            {% endif %}
+        </div>
+    </div>
+
+</body>
+</html>

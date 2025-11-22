@@ -1,0 +1,30 @@
+[
+    {
+        "Title": "The Lean Startup",
+        "Author": "Eric Ries",
+        "Subject": ["Entrepreneurship", "Business", "Startups"],
+        "Year": 2011,
+        "Classification": "658.152"
+    },
+    {
+        "Title": "Zero to One",
+        "Author": "Peter Thiel",
+        "Subject": ["Innovation", "Technology", "Startups"],
+        "Year": 2014,
+        "Classification": "658.42"
+    },
+    {
+        "Title": "Python Crash Course",
+        "Author": "Eric Matthes",
+        "Subject": ["Programming", "Python", "Computing"],
+        "Year": 2015,
+        "Classification": "005.133"
+    },
+    {
+        "Title": "The Great Gatsby",
+        "Author": "F. Scott Fitzgerald",
+        "Subject": ["Fiction", "Classics", "Literature"],
+        "Year": 1925,
+        "Classification": "813.52"
+    }
+]
