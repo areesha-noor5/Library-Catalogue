@@ -1,0 +1,25 @@
+# Gitpod configuration to install deps and start the Flask app
+tasks:
+  - name: Setup and Run Flask App
+    command: |
+      python -m pip install --upgrade pip
+      pip install -r requirements.txt
+      python -c "import nltk; nltk.download('stopwords')"
+      # Start the Flask app in background
+      python app.py &
+
+ports:
+  - port: 5001
+    onOpen: open-preview
+# .gitpod.yml
+
+tasks:
+  - name: Setup and Run Flask App
+    # Command 1: Install Python dependencies (Flask, NLTK, etc.)
+    command: pip install Flask NLTK && 
+             # Command 2: Start the web server in the background
+             python app.py &
+
+ports:
+  - port: 5000 # The port your Flask app runs on
+    onOpen: open-preview # Tells Gitpod to automatically show the browser preview
