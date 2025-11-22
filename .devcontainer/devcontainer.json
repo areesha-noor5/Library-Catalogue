@@ -1,0 +1,7 @@
+{
+  "name": "Library-Catalogue Devcontainer",
+  "forwardPorts": [5001],
+  "customizations": {
+    "vscode": {}
+  }
+}
