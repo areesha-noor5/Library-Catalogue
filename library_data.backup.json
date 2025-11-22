@@ -1,0 +1,5446 @@
+[
+  {
+    "Title": "The Lean Startup",
+    "Author": "Eric Ries",
+    "Subject": [
+      "Entrepreneurship",
+      "Business",
+      "Startups"
+    ],
+    "Year": 2011,
+    "Classification": "658.152"
+  },
+  {
+    "Title": "Zero to One",
+    "Author": "Peter Thiel",
+    "Subject": [
+      "Innovation",
+      "Technology",
+      "Startups"
+    ],
+    "Year": 2014,
+    "Classification": "658.42"
+  },
+  {
+    "Title": "Python Crash Course",
+    "Author": "Eric Matthes",
+    "Subject": [
+      "Programming",
+      "Python",
+      "Computing"
+    ],
+    "Year": 2015,
+    "Classification": "005.133"
+  },
+  {
+    "Title": "The Great Gatsby",
+    "Author": "F. Scott Fitzgerald",
+    "Subject": [
+      "Fiction",
+      "Classics",
+      "Literature"
+    ],
+    "Year": 1925,
+    "Classification": "813.52"
+  },
+  {
+    "Title": "AUTHOR",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Cullen Elliot",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Gordon Tait",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Akmal Hussain",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Muhammad Athar Khan",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "M. Athar Khan",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Sve C. Wortham",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Simona Sava",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "George S. Morrison",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Vitaliy V. Shthykov",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Amy J.Heineke",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Lin Norton",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Angela Glenn",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Dr. R. Annadurai",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "James A. Banks",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Sage Publication Ltd",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Olivia N. Perlow",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Daniel Muijs",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Brian Tracy",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Tony Ryan",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Sue Waite",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Eleanore Hargreaves",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Y. K. Singh",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Chad R. Lochmiller",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Aaseelan. P",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Kristina Powers",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Reginald Leon Green",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Ann Gravells",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "John M. Norris",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Judit Kormos",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Susan Ko",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Tom O' Donoghue",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Diane E. Eynon",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Dr. Satpal Swami",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Bill Boyle and Marie Charles",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Dr. Deepa Mehta",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "J. Michael Spector",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Lyn Corno",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Jody Spiro",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Craig A. Mertler",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Jerome Frieman",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Dr. S. K. Panneer Selvam",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Maryam Siddiqa Lodhi",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Releah Cossett Lent",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Jaipaul Roopnarine",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Bill Rogers",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Stephanie Chitpin",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Andrew Redfern",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Bruce Joyce",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Gurpreet Kaur",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Carolyn Babione",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "James S. Bowman",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Ann Myers",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Keith C. Herman",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Peter Berck",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Karl Aubrey",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Robert E. Slavin",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Grades K-5",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Mark Labrow",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Michael Rost",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Thomas M. Haladyna",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Richard I. Arends",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Susan Noffke",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "I. S. Sindhu",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "David Kember",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Susan K. Telljohann",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Fraenkel",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Allen F. Repko",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Tina Marshall",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Claire McGuinness",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "S. N. Chaube",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Nasrin, Dr.",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "S. K. Mangal",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Jahitha Begum",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Norbert Pachler",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Robert C. Bogdan",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "S. P. Denisia",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "B. C. Dash",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "H. S. Srivastava",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Shefali R. Pandya",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Marlow Ediger",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "S. S. Raghvan",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Premchand Jogi",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Yerroju Bhaskaracharyulu",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Gwen Goodhew",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Jane Drake",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Promila Sharma",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Alan Pritchard",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Anita Woolfolk",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "John W. Best",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Ajoy Chatterjee",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Chris Kyriacou",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Pankaj Sharma",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Shirley Bach",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Louis Cohen",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Abdul Ghafoor",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "M. K. Raina",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Samuel A. Kirk",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Driss Fatih",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Sue Brelade",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Y. Chakardhara Singh",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Dr. Malvinder Singh Tiwana",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Hans De Wit",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Kathryn Geldard",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Clive McGee",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Gary Mcculloch",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Bernadette E. Dietz",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Rita A. Jensen",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Hazel Bennett",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "P.R.Trivedi",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Tariq Rahman",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Matthew Jordan",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Beverley Bell",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Barvara Bruns",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "David de Ferranti",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "V. K. Rao",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Manuel Martinez Pons",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Jack R. Fraenkel",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Ian Startup",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Sung H.Park",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Alain Mingat",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Donald K. Sharpas",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Van B. Weigel",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Asian Productivity Organization",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "A. K. Nayak",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Pujari Daivadeenam",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Ano",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Mike Schmoker",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "S. Venkataiah",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Dr.Digumarti Bhaskra",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "S.Q.University",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "John M. Swales",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Stphen N . Elliot",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Shaikh Izzat Ullah.",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "B. C. Das",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "V. Venugopal Reddy",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "University Grants Commission",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "U. G. C",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Europa Publications",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "U. G. C. Islamabad",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Ann C. M. Taylor",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "S. V. Supe",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "World",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Poch",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "M. A. Adeeb",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Musarrat Shaukat Cheema",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Dr. M. Zafar Iqbal",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "C. L. Kundu",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Umme Kalsoom Adeel",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Pakistan Council S. T.",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Gerald G.Duffy",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Gillian Lazar",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Elizabeth M. King",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "M. Raziuddin Siddiqi",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Jee-Peng Tan",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Ralph W.Harbison",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Unesco",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Arieh Lewy",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Dr.Sarfraz Khawaja",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Govt of Pakistan",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "John P. Keevs",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Verna Hildebrand",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Dr. Abdul Ghafoor",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Dr. M. Akmal Khan",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Roger Girod",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Faqir Muhammad baloch",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Fred Fluitman",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "U. A. F",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Louis D Hayes",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Philip Prowse",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "F. K. Khan Durrani",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Stephen P. Heyneman",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "George Pacharopoulos1985",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Torsten Husen",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "G.Hosmoi Snakata K",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "OCD",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Craig N. Locatis",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Robert J. kibler",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "C.L.Kundu",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Muhammad Rafiuddin",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "F. A. Shams",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Ghulam Nabi Saqib",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "M. Abdus Sami",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Michael W. Apple",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Derek Legge",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Muhammad Anwar",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Anis Ahmad",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "George B. Helton",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "John C. Clift",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Anthony Kaye",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Maureen Woodhall",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Digby C. Anderson",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "J. Stanley Ahmann",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Meredith Damien Gall",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Lawrence Stenhouse",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "M.Stephen Liliy",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Abdus Salam",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Edgar Stones",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Stanley Ahmann",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "R. W. Morris",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Louis Rubin",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Louis Rubis",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Daniel Tanner",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Stanley W. Johnson",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "M.Khashruzzaman",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "J. S. Farrant",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Nelson",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "International Edition Nelson",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "S.Muhammad al-Naqib",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Syed Sajjad Husain",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "P. M. I. Islamabad",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Harry Schofield",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Jerome Karabel",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "James R. Layton",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Edwin K. Townsend Coles",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "James W. Brown",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "F. E. Keay",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "H. Alan Robinson",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Clarence E. Lovejoy",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "M.Saddiq Kalim",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "H.Alan Robinson",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Dpmald E/P.Smith",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Gary D. Borich",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "John Boyd",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Susanne Mowat",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Harold I.Cotler",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Robert M. W. Travers",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Donald J. Treffinger",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "K. G. Saiyidain",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Johanna Turner",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Myron H. Dembo",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Austin A. D' Souza",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "R. A. Hodgkin",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Clifford H.Edwards",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "E. D. Hirsch,Jr",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "William W. Cooley",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Michael Stubbs",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Eugene M. Ezersky",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Dr. Steven E. Goodman",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Barton Morgan",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Stacy Churchill",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "W\u2026.Diyasena",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "R.F.Darden",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Robert Bell",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Brain Daves",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Peter M. E. Figueroa",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Peter Scrimshaw",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Europa",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "S. S. Bhandarkar",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Basil Bernstein",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Rhodes Boyson",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Vladimir stoikov",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Trefor Vaugham",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Eric Midwinter",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Don Adams",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Ishtiaq Husain Qureshi",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "DR.W.M.Zaki",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Institute for Scientific",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Mrs. Tanveer Khalid",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Maurice Kogan",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Paul Lengrand",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "AndrewWilk Inson",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Bruce W. Tuckman",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "William Kay",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Robin Barrow",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "K. Wedell",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "David Nyberg",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "H. W. R. Hawes",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Richard J. Mueller",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "K. T. Elsdon",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Michael D.Stephens",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Paul Seabury",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "John Hanson",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "J. T. Haworth",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "R. S. Downie",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Ted W. Ward",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Aparna Basu",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Virgil M.Howes",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Peter Doughty",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "William K. Cummings",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Jeremy Tunstall",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Graeme C,. Moodie",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Russel Kleis",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "John P. Cecco",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Christopher Walker",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Edward F. Sheffield",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Edeard F. Sheffield",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Lawrence Stone",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Richard L. Kagan",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Hugh Livingstone",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Derek Packham",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "John Leedham",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "V. C. Good",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Tonv Gibson",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Tony Gibson",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Fred N. Kerlinger",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Richard Brown",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Bureau of Education",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Zafar Husain Khan",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Rene Saran",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "C. E. Beeby",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Ceri",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Audrey Newsome",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "John Foster",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Philip H. coombs",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Jum C. Nunnally",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "E. Stones",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Arthur R. Jensen",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Mark Blaug",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Edgar Faure",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Brenda Thompson",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "A. Harry Passow",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Jessie Helen Haag",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "HMS",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "G. E. Perren",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Sherida G. Taylor",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Commonwealth U. london",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "J. lowe",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "J.Stanley Ahmann",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Neal gross",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Ronald G. Cave",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "J.E.Taylor",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Alan Hancock",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Robert C. Mckean",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "H. S. N. Mcfarland",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "John Downing",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Dwight W. Allen",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Mark Terry",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "A. C. Bajpai",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "D. F. Swift",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "James F. Adams",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Dr. Abdul Rauf",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Mazhural Haque",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Derek Birley",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Samuel Ball",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Edward W. Minium",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Gordon W. Miller",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Abdul Rauf",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "John Walton",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "A. P. Mann",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "S. Haider",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "J. F. Foster",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "J. Minor Gwynn",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Peter Armitage",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Jerry J. Herman",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Ruth Phelps",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "John vaizey",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Carl R. Kogers",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Howard Hayden",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Robert L. T",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Robert L. Thorndike",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "John S. Brubacher",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Par",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Finley Carpenter",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Benjamin S. Bloom",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Ray H. Simpson",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "West Pakistan Agri Uni lyallpur",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Salima Hashmi",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Sideny Tiedt",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Ghulam Jilani",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "James bryant conant",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Anonymous",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "T. M. Stinnett",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Joseph Nuttin",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Frank J. Estvan",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "David W.Beggs ,111",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Robert Ulich",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Willim Taylar",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "M. A. Kazi",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Harold Full",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Joe L. Frost",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Charles C. Cowell",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "D. K. Stanley",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Richard Goodman",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Dugald S. Arbuckle",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Hindson& andrew",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Herbert Stroup",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Mary Louise Seguel",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "E. A. G. Robinson",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Daniel jenkins",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Paul Ritter",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "R. S. Peters",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Davis",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "G.O.M.Leith",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Georgia Sachs Adams",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Miriam E. Hebron",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Murray G. Ross",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Adam Curle",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Rudyard K. Bent",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "H. W. Hannah",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Molly Brearley",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "June Derrick",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "DeinsPirrie",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Jerome S. Bruner",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "James A. Perkins",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Muhammad Shamsul Huq",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "C. Arnold Anderson",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "James S. Coleman",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "John E. Corbally",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Samuel Baskin",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "D. J. Foskett",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Tokiomi Kaigo",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Walter T.Petty",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "G. Doreen Pllett",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Philip H. Phenix",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "G. Max Wingo",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "A. D. C. Peterson",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "J. E. Sadler",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "W P Agri",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Nicholas Hans,",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Frederick Eby",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "F. L. Hawley",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Richard I. Miller",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Edward Blishen",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "F. B. Pinion",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Charles A. Bucher",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "M. V. C. Jeffreys",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Rutb Strange",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "R. Freeman Butts",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Glenn Doman",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "National Book Center",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "John E. Nixon",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "J. Francis Rummel",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Herbert J. Klausmeier",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Kenneth H. Hoover",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Morris L. Bigge",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Robert N.Bush",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "N. B. Sen",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "George J. Mouly",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Maulana Salahudden",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Robert Bierstedt",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "United States",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "L. O. Andrews",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Clark Kerr",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Jack A. Culbertson",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "C. O. H. Majesty",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Unecsco",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Roald F. Campbell",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "T.L. jarman",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Ronald Gross",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Albert E. Sloman",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Nevitt Sanford",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Keith Goldhammer",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Burton R.Clark",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Nelson B. Henry",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Margaret Mead",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Viginia B. Warren",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Walter Pauk",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "G. R. Gottschalk",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Saymour B.Sarason",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Howard M. Jones",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Edmund J. King",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Edward W. Weidner",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Herbert Ward",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Christopher Dawson",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "A. H. Halsey",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Charles E. Skinner",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Edward W. Smith",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Decd Ocde",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Oliver C. Carmichael",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Humayun Kabir",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "M.P.Smith",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "A. N. M. Muniruzzaman",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Hollis F. Fait",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Charles Bucher",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "emile Durkheim",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "D.K.Stanley",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "National Training Laboratories",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Joseph Leese",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Abdul Haq",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Richard Wynn",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Robert G. Myers",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Salma Mustafa Qurashi",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Harold Taylor",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Bernard Berelson",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Thomas F. Staton",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Willim Clark Trow",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "OECD",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "G.Jilani",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Kimball Wiles",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "A.A.Lumsdaine",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Louis Cenci",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Earle F. Zeigler",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "American Assocition",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "D. E. Goldman",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "John Dewey",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Carter V. Good",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "William D. Martinson",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "A.G.Hufhes",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Alden J. Carr",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Russell Cosper",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Gordon I. Swanson",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Denis Baron",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Robert E. Scheider",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Elizabeth Halsey",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Herold C.Hunt",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Morris L.Bigge",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Sam P. Wiggins",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Edward D. Eddy",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Myron Lieberman",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Catherine Landreth",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "W. H. Lancelod",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "William, M. D.",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Louis G. Locke",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Walter H. C. Laves",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Roy W. Roberts",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Bertrand Russell",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Henry clay lindgren",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "J. M. Stephens",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Robert S. Ellis",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Francis G. Cornell",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Wrightstone",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Lester D. Crow",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Delbert Oberteuffer",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Albert J. Huggett",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "David R. Krathwohi",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Calvin Grieder",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Rober M. W. Travers",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Carl G. F. Framzen",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Charles W. Coulter",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "James L. Mursell",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Wilbur B. Brookover",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Syed Nurullah",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Dev Indar Lall",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Glenn Myers Blair",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Frederick Lamson W",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Alfred H. Krbs",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Lioyd J.Phipes",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "E.F Linfquet",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Malcolm S. Knowles",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Fazlur Rahman",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Richard H. Ostheimer",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Clyde Knapp",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Good Speed",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Paul L.Essert",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Merritt M. Thompson",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "G. B. Jeffery",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Edward A. Krug",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Harl R. Douglass",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "W. F. Stewart",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "John Brubacher",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Ralph W. Tyler",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Adolph E. Meyer",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Anita Duncan Laton",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Henry Beaumont",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Louis V. Newkirk",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Merle Curti",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Mary L. Ely",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Ellwood P. Cubberley",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Mary Sturt",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Ashel D. Woodruff",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Alfred Adler",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Francis S.Chase",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Stella van Petten H",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Harcourt Brace",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Bertrand Russel",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "William C. Reavis",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "John dale Russell",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Clarence Stephen M.",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Manzoor Ahmad",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Edgar C. Higbie",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "J. C. Kendall",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "T. Raymont",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Alfred North Whitehead",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "J. C. Ghosh",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "B.Educational",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Samuel Bower S.",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Alexander Bain",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "Eugene W.Nixon",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "\u0645\u06cc\u0627\u06ba \u0645\u062d\u0645\u062f \u0639\u0627\u0631\u0641\u060c \u0645\u0646\u0638\u0648\u0631 \u0627\u062d\u0645\u062f \u062c\u0627\u0648\u06cc\u062f",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "\u0631\u0627\u0644\u0641 \u0627\u06cc\u0686\u060c \u0627\u0648\u062c\u06cc\u0645\u0627\u0646\u060c \u0633\u06cc\u062f \u0646\u0632\u06cc\u0631 \u0645\u062d\u0645\u062f \u0628\u062e\u0627\u0631\u06cc",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "\u067e\u0631\u0648\u0641\u06cc\u0633\u0631 \u0628\u062e\u062a\u06cc\u0627\u0631 \u062d\u0633\u06cc\u0646 \u0635\u062f\u06cc\u0642\u06cc",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "\u0645\u0646\u06c1\u0627\u062c \u0627\u0644\u062f\u06cc\u0646 \u062e\u0627\u0646\u060c \u062e\u0627\u0646 \u0645\u062d\u0645\u062f \u0628\u06be\u0679\u06cc",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "\u0688\u0627\u06a9\u0679\u0631 \u0627\u0646\u062c\u0645 \u0631\u062d\u0645\u0627\u0646\u06cc",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "\u0645\u0633\u0644\u0645 \u0633\u062c\u0627\u062f\u060c \u0633\u0644\u06cc\u0645 \u0645\u0646\u0635\u0648\u0631 \u062e\u0627\u0644\u062f",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "\u0645\u0633\u0644\u0645 \u0633\u062c\u0627\u062f\u060c \u0633\u0644\u06cc\u0645 \u0645\u0646\u0635\u0648\u0631",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "\u0688\u0627\u06a9\u0679\u0631 \u0627\u0646\u06cc\u0633 \u062e\u0648\u0631\u0634\u06cc\u062f",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "\u0645\u0633\u0644\u0645 \u0633\u062c\u0627\u062f",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "\u0688\u0627\u06a9\u0679\u0631 \u0627\u06a9\u0628\u0631 \u0639\u0644\u06cc",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "\u0688\u0627\u06a9\u0679\u0631 \u0645\u062d\u0645\u062f \u0627\u0628\u0631\u0627\u06c1\u06cc\u0645 \u062e\u0627\u0644\u062f",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "\u067e\u0631\u0648\u0641\u06cc\u0633\u0631 \u0639\u0645\u0631\u0642\u0627\u062f\u0631\u06cc",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "\u0627\u0646\u0633\u0679\u06cc \u0679\u06cc\u0648\u0679 \u0622\u0641 \u067e\u0627\u0644\u06cc\u0633\u06cc \u0627\u0633\u0679\u0688\u06cc\u0632 \u0627\u0633\u0644\u0627\u0645 \u0622\u0628\u0627\u062f",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "\u0645\u0633\u0644\u0645 \u0633\u062c\u0627\u062f\u060c\u0633\u0644\u06cc\u0645 \u0645\u0646\u0635\u0648\u0631 \u062e\u0627\u0644\u062f",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "\u0627\u0631\u0634\u062f \u0645\u062d\u0645\u0648\u062f",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "\u0646\u0639\u06cc\u0645 \u0635\u062f\u06cc\u0642\u06cc",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "\u0633\u0644\u06cc\u0645 \u0645\u0646\u0635\u0648\u0631 \u062e\u0627\u0644\u062f",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "\u0630\u06cc\u0644\u06cc \u0645\u062c\u0644\u0633 \u0627\u0635\u0637\u0644\u0627\u062d\u0627\u062a \u062a\u0639\u0644\u06cc\u0645\u0627\u062a",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "\u067e\u0631\u0648\u0641\u06cc\u0633\u0631 \u0627\u0631\u0634\u062f \u062c\u0627\u0648\u06cc\u062f",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "\u0639\u0628\u062f\u0627\u0644\u062d\u06cc \u0639\u0644\u0648\u06cc",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "\u0646\u0639\u0645\u0627\u0646\u06cc \u06a9\u062a\u0628 \u062e\u0627\u0646\u06c1",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "\u0631\u0627\u0646\u0627 \u0645\u062d\u0645\u062f \u0633\u0631\u0648\u0631\u060c \u0634\u0645\u0634\u0627\u062f \u0645\u062d\u0645\u062f \u062e\u0627\u06ba \u0644\u0648\u062f\u06be\u06cc",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "\u0646\u0648\u0627\u0628 \u0634\u0627\u06c1\u062c\u06c1\u0627\u0646 \u0628\u06cc\u06af\u0645 \u0635\u0627\u062d\u0628\u06c1 \u0648\u0627\u0644\u06cc\u06c1 \u0628\u06be\u0648 \u067e\u0627 \u0644",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "\u062d\u0633\u0646 \u0645\u06c1\u0646\u062f\u06cc \u0646\u0642\u0648\u06cc",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "\u0631\u0634\u06cc\u062f \u0627\u0645\u062c\u062f \u060c\u0633\u06cc\u062f \u0641\u0627\u0631\u0648\u0642 \u0639\u0644\u06cc",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "\u0645\u0642\u0628\u0648\u0644 \u0627\u062d\u0645\u062f",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "\u0688\u0627\u06a9\u0679\u0631 \u0627\u062d\u0645\u062f \u0634\u0644\u06cc\u0628\u06cc",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "\u067e\u0631\u0648\u0641\u06cc\u0633\u0631 \u0639\u0628\u062f\u0627\u0644\u0631\u0634\u06cc\u062f \u062e\u0627\u0646",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "\u0645\u062d\u0645\u062f \u0628\u0634\u06cc\u0631 \u062c\u0645\u0639\u06c1",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "\u0633\u0639\u06cc\u062f \u0627\u062e\u062a\u0631",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  },
+  {
+    "Title": "\u067e\u0631\u0648\u0641\u0633\u06cc\u0631 \u0645\u0642\u0635\u0648\u062f \u0627\u0644\u062d\u0633\u0646 \u0628\u062e\u0627\u0631\u06cc",
+    "Author": "",
+    "Subject": [
+      "General"
+    ],
+    "Year": 0,
+    "Classification": ""
+  }
+]
